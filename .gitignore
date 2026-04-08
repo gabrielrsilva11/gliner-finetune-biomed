@@ -1,0 +1,16 @@
+# Restricted / large datasets
+data/n2c2/
+data/biorex/
+retrico.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / tools
+.claude/
+.vscode/
+
+# Secrets
+.env
