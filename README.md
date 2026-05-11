@@ -1,6 +1,4 @@
-# Knowledgator Task — ML Researcher
-
-The goal was to fine-tune the GLiNER-relex model on a biomedical relation extraction task and build a Graph RAG pipeline on top of it using the RetriCo framework.
+The goal of this repository was to try and fine-tune the GLiNER-relex model on a biomedical relation extraction task and build a Graph RAG pipeline on top of it using the RetriCo framework.
 
 ---
 
